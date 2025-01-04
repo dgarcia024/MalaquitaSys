@@ -10,7 +10,7 @@ namespace MalaquitaSystem.Web.Controllers
         {
             var data = new TestViewModel 
             {
-                Name = "Daniel Garcia",
+                Name = "Anthony G Almeida",
                 BithDate = new DateOnly(1993,04,24)
             };
             return View(data);
